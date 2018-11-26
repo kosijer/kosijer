@@ -47,8 +47,6 @@ Use `Ropa Sans` as the typeface for the text, which is available through [Google
 ### Images
 Use the SVG included in this directory for the arrow icons
 
-![arrow](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFk%0D%0Ab2JlIElsbHVzdHJhdG9yIDIyLjAuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246%0D%0AIDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5z%0D%0APSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMu%0D%0Ab3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHdpZHRoPSIzNy42cHgiIGhlaWdodD0i%0D%0ANjIuNnB4IiB2aWV3Qm94PSIwIDAgMzcuNiA2Mi42IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6%0D%0AbmV3IDAgMCAzNy42IDYyLjY7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8cGF0aCBkPSJN%0D%0AMy41LDIuMUMxMy4zLDEyLDIzLjEsMjAsMzIuOCwyOS45QzIzLjEsMzkuOSwxMy4zLDQ4LDMuNSw1%0D%0AOC4xYzAtNSwwLTgsMC0xM2M1LjMtNC44LDEwLjYtOS41LDE2LjYtMTQuOQoJCWMtNi01LjUtMTEu%0D%0AMy0xMC4zLTE2LjYtMTUuMUMzLjUsMTAuMSwzLjUsNy4xLDMuNSwyLjF6Ii8+CjwvZz4KPC9zdmc+%0D%0ACg==)
-
 ## How it should work
 * The 'active' carousel item is always centred in its container
 * When you click the `prev` button, it should centre the previous item
