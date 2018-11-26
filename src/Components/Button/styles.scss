@@ -1,0 +1,45 @@
+.prev,
+.next  {
+  color: white;
+  background: #276696;
+  padding: 10px 20px;
+  border-radius: 5px 0 0 5px;
+  margin: 5px;
+  cursor: pointer;
+  min-width: 60px;
+  text-align: center;
+  user-select: none;
+}
+
+.next {
+  border-radius: 0 5px 5px 0;
+}
+.prev:hover,
+.next:hover {
+  background: darken(#276696, 15);
+}
+
+@media only screen and (max-width: 960px) {
+  .prev,
+  .next  {
+    background: url('/src/static/img/arrow.svg') rgba(white, 0.5) no-repeat 25% center;
+    padding: 0;
+    border-radius: 100%;
+    cursor: pointer;
+    min-width: 140px;
+    text-align: center;
+    user-select: none;
+    color: transparent;
+    text-indent: -1000%;
+    overflow: hidden;
+    height: 140px;
+    margin: 25% -70px;
+  }
+  .prev {
+    transform: rotate(180deg);
+  }
+  .prev:hover,
+  .next:hover {
+    background: url('/src/static/img/arrow.svg') rgba(white, 0.5) no-repeat 25% center;
+  }
+}
