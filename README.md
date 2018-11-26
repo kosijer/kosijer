@@ -14,9 +14,9 @@ This is a standard test where we expect the developer to respond to several aspe
 ## Example of what you will be building
 
 ### Mobile
-![Carousel Test Example Mobile](./carousel-mobile.png)
+![Carousel Test Example Mobile](https://raw.githubusercontent.com/kosijer/pixabay-carousel/master/src/static/img/carousel-mobile.png)
 ### Desktop
-![Carousel Test Example Desktop](./carousel-desktop.png)
+![Carousel Test Example Desktop](https://raw.githubusercontent.com/kosijer/pixabay-carousel/master/src/static/img/carousel-desktop.png)
 
 ## Brief
 Using the image above as a reference build a mobile-first carousel widget that cycles through six images via the `prev` and `next` buttons. These are styled differently depending on the viewport size.
@@ -47,7 +47,7 @@ Use `Ropa Sans` as the typeface for the text, which is available through [Google
 ### Images
 Use the SVG included in this directory for the arrow icons
 
-![arrow](./arrow.svg)
+![arrow](https://raw.githubusercontent.com/kosijer/pixabay-carousel/master/src/static/img/arrow.svg)
 
 ## How it should work
 * The 'active' carousel item is always centred in its container
